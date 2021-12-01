@@ -1,0 +1,16 @@
+# PythonWolf
+This is a free and open-source Python browser built using the very powerful PyQt5 bindings and the very powerful PyQtWebEngineFramework. 
+We plan on adding C# and possibly CSS, JavaScript, and C++ to this project
+This browser requires PyQt5 and the PyQtWebEngineFramework. This browser also requires Python 3.10.0 or above installed.
+
+Steps to install Python, PyQt5 and the PyQtWebEngineFramework:
+
+1. Install Python from https://www.python.org/downloads/
+2. Install PyCharm from https://www.jetbrains.com/pycharm/ 
+3. Create a project in PyCharm and select Python 3.10.0 as the interpreter.
+4. Open the terminal built into PyCharm in your project.
+5. Type "pip install PyQt5" in the terminal. Wait for PyQt5 to get downloaded.
+6. Type "pip install PyQtWebEngine" in the terminal. Wait for it to get downloaded.
+7. Copy paste the source code for PythonWolf in your project.
+8. Save your project.
+9. Run it.
