@@ -1,7 +1,9 @@
-# PythonWolf
+# Redfox.
 
 Since v2.0.0, this browser has been renamed Redfox.
 This browser is now a C# browser.
+
+This browser is now a multi-tabbed, advanced C# browser.
 
 This was a free and open-source Python browser built using the very powerful PyQt5 bindings and the very powerful PyQtWebEngineFramework. 
 This browser required PyQt5 and the PyQtWebEngineFramework. This browser also required Python 3.10.0 or above installed.
