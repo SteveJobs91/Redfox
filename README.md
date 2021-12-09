@@ -6,20 +6,35 @@ This browser is now a C# browser.
 Redfox
 This is an advanced web browser created in C# WPF.
 
-Features
+Features:
+
 Colored tabs
+
 History
+
 Suggestions
+
 Downloads
+
 Incognito
+
 Screenshot function
+
 News
+
 Weather
+
 Settings
+
 Material Design UI
+
 Bookmarks
+
 Extensions
-Engine
+
+Engine:
+
+
 This browser is using CefSharp. You can find it on: https://github.com/cefsharp/CefSharp
 
 Extensions
