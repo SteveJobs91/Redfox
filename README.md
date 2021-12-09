@@ -1,7 +1,10 @@
 # PythonWolf
-This is a free and open-source Python browser built using the very powerful PyQt5 bindings and the very powerful PyQtWebEngineFramework. 
-We plan on adding C# and possibly CSS, JavaScript, and C++ to this project
-This browser requires PyQt5 and the PyQtWebEngineFramework. This browser also requires Python 3.10.0 or above installed.
+
+Since v2.0.0, this browser has been renamed Redfox.
+This browser is now a C# browser.
+
+This was a free and open-source Python browser built using the very powerful PyQt5 bindings and the very powerful PyQtWebEngineFramework. 
+This browser required PyQt5 and the PyQtWebEngineFramework. This browser also required Python 3.10.0 or above installed.
 
 Steps to install Python, PyQt5 and the PyQtWebEngineFramework:
 
