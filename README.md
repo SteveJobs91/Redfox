@@ -3,7 +3,46 @@
 Since v2.0.0, this browser has been renamed Redfox.
 This browser is now a C# browser.
 
+Redfox
+This is an advanced web browser created in C# WPF.
+
+Features
+Colored tabs
+History
+Suggestions
+Downloads
+Incognito
+Screenshot function
+News
+Weather
+Settings
+Material Design UI
+Bookmarks
+Extensions
+Engine
+This browser is using CefSharp. You can find it on: https://github.com/cefsharp/CefSharp
+
+Extensions
+Files structure Extensions
+
+name.json
+name.js
+name.png
+name.json:
+
+{
+  "id":"name",
+  "description":"description",
+  "logo":"name.png",
+  "scripts": [
+      {"file":"name.js"}
+  ]
+}
+The extensions are loading to the webview. Code of extension is executing after page load event.
+
 This browser is now a multi-tabbed, advanced C# browser.
+
+How to install v1.0.0 of this browser:
 
 This was a free and open-source Python browser built using the very powerful PyQt5 bindings and the very powerful PyQtWebEngineFramework. 
 This browser required PyQt5 and the PyQtWebEngineFramework. This browser also required Python 3.10.0 or above installed.
