@@ -1,7 +1,9 @@
 # Redfox.
 
 Since v2.0.0, this browser has been renamed Redfox.
-This browser is now a C# browser.
+In v2.0.0, Redfox was written in C#.
+Redfox is now going to alpha mode. The UI is going to be completely rewritten, the browser will now be based on Mozilla's Gecko engine.
+An amazing browser is coming into shape. We think that once a completely stable and advanced version of the browser will be released, no one will want to look at Google Chrome.
 
 Redfox
 This is an advanced web browser created in C# WPF.
