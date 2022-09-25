@@ -1,7 +1,5 @@
 #Redfox:
 
-<<<<<<< HEAD
-=======
 import sys
 
 #importing Widgtes
@@ -102,4 +100,3 @@ window = Window()
 
 #executing created app
 MyApp.exec_()
->>>>>>> 53e1609251fe84b64a31b4ea7525902b67d4c6d3
